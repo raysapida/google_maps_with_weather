@@ -3,3 +3,14 @@ html, body, #map-canvas {
   margin: 0;
   padding: 0;
 }
+
+#panel {
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  margin-left: -180px;
+  z-index: 5;
+  background-color: white;
+  padding: 0.5em;
+  border: 1px solid black;
+}
