@@ -1,6 +1,6 @@
 var geocoder;
 var geoJSON;
-var openWeatherMapKey = "ABC...";
+var openWeatherMapKey = "3aac91a3da0bcfa74fe57c6d95e9e6a8";
 var gettingData = false;
 var map;
 
